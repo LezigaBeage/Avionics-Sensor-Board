@@ -92,7 +92,7 @@ The public repository contains CAD design artifacts, but the existing [bring-up 
 
 **Suggested next evidence:** ERC/DRC screenshots, PCB 3D renders, verified rail measurements, and SPI/sensor bring-up logs when approved for publication.
 
-**[Return to engineering portfolio](https://github.com/LezBe/Leziga_Portfolio)**
+**[Return to engineering portfolio](https://github.com/LezigaBeage/Leziga_Portfolio)**
 
 
 ## Branching
