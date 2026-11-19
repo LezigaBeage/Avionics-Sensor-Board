@@ -22,4 +22,4 @@ This index links to **existing CAD files** checked into the default branch. It d
 
 No publicly reviewed, source-backed screenshots, physical-board photographs, oscilloscope traces, or verified sensor-readout captures were located in this repository's default branch during this documentation update. Such assets should be added only with team approval and accurate captions.
 
-[Back to README](../README.md) · [Engineering portfolio](https://github.com/LezBe/Leziga_Portfolio)
+[Back to README](../README.md) · [Engineering portfolio](https://github.com/LezigaBeage/Leziga_Portfolio)
